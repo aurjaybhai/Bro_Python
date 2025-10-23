@@ -5,8 +5,6 @@ input() ==> A Function that prompts the user to enter data
                #
 """
 
-from posix import PRIO_PROCESS
-
 
 name = input("What is your name?: ")
 age = int(input("How old are you?: "))
