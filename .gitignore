@@ -7,6 +7,11 @@ env/
 .vscode/
 
 # Byte-compiled / cache
-__pycache__/
 *.py[cod]
 *$py.class
+
+# Python compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
